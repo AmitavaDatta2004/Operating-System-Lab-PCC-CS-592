@@ -1,0 +1,60 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled Static and Shared Libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Executable files
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug and profiling files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.mod.c
+*.gcno
+*.gcda
+*.gcov
+
+# Temporary files
+*~
+*.swp
+*.tmp
+
+# Build directories
+/build/
+bin/
+debug/
+release/
+
+# Code::Blocks
+*.depend
+*.layout
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# CMake
+CMake
