@@ -14,4 +14,3 @@ echo "$num2 is greatest"
 else
 echo "$num3 is greatest"
 fi
-        
