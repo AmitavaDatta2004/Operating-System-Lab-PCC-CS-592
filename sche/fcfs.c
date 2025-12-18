@@ -55,7 +55,7 @@ int main(){
         printf("%d\t%d\t%d\t%d\t%d\t%d\n",p[i],at[i],bt[i],ct[i],tat[i],wt[i]);
     }
 
-    printf("Avg tat = %d",total_tat/n);
-    printf("Avg bt = %d",total_wt/n);
+    printf("Avg tat = %d\n",total_tat/n);
+    printf("Avg bt = %d\n",total_wt/n);
 
 }
